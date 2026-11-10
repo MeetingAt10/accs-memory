@@ -5,6 +5,7 @@ Private, human-readable context vault for the ACCS capstone. Start with [MEMORY.
 ## Contents
 
 - [Project scope](context/project-scope.md): current study boundary and unresolved policy questions.
+- [Policy decisions](context/policy-decisions.md): DOC003 open decisions the team has answered, and those still open.
 - [Source registry](sources.md): where each claim came from and which source takes precedence.
 - [Context and memory research](research/context-memory-2026.md): current approaches beyond basic vector RAG.
 - [Memory architecture decision](decisions/0001-memory-architecture.md): selected vault approach and future retrieval gates.
