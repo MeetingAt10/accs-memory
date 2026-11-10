@@ -1,7 +1,7 @@
 # Source registry
 
 Status: Working registry.  
-Last reviewed: 2026-10-19.
+Last reviewed: 2026-11-10.
 
 | ID | Source | Authority and use |
 | --- | --- | --- |
@@ -10,5 +10,6 @@ Last reviewed: 2026-10-19.
 | S3 | `notion-context/gdocs/1xk6G0JGgVLQbiH8bFstpXCpIrmL_3HrQIwuZJpTpfaQ/SBIT4K_GROUP2_PROJECT-PROPOSAL.txt` | Older, broader proposal; design intent only when it does not contradict S1. |
 | S4 | `accs-system/docs/hardware-software-requirements.md`, sections “Scope and evidence” and “Sources and refresh provenance” | 2026-10-18 synthesis with code and document references; proposed baseline, not approval. |
 | S5 | `accs-landing/BRAND_REFERENCE.md` | Figma inspection notes; color and logo proposals, no approved final logo. |
+| S6 | GitHub `MeetingAt10/accs-backend` issue #9 decision comment (2026-11-10) and PRs #23, #24, #26 | Team answers to DOC003 open decisions, as applied in code. |
 
 Paths are relative to the CAPSTONE workspace, not copied into this repository. Recheck the original before changing a factual note. A refreshed export date alone does not prove that every Notion or Drive source is current.
